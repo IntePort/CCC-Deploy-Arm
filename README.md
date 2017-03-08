@@ -6,7 +6,7 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/IntePort/CCC-Deploy-Arm/raw/master/azuredeploy.json"_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/IntePort/CCC-Deploy-Arm/raw/master/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
     
     
