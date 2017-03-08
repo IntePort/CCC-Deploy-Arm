@@ -387,7 +387,7 @@
                   },
                   "sink": {
                     "type": "SqlSink",
-                    "sqlWriterCleanupScript": "$$Text.Format('DELETE FROM {0}')"
+                    "sqlWriterCleanupScript": "$$Text.Format('DELETE FROM CB')"
                   },
                   "translator": {
                     "type": "TabularTranslator",
