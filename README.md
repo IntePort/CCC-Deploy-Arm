@@ -6,7 +6,7 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/IntePort/CCC-Deploy-Arm/master/azuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-data-factory-blob-to-sql-copy/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
     
     
