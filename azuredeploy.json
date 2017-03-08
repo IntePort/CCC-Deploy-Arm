@@ -10,12 +10,6 @@
         "description": "Name of the College."
       }
     },
-    //"storageAccountName": {
-    //  "type": "string",
-    //  "metadata": {
-    //    "description": "Name of the Azure storage account that contains the data to be copied."
-    //  }
-    //},
     "storageAccountKey": {
       "type": "securestring",
       "metadata": {
@@ -66,7 +60,7 @@
     //}
   },
   "variables": {
-    "dataFactoryName": "[concat(parameters('collegeName'),'mis-load')]",
+    "dataFactoryName": "[concat(parameters('collegeName'),'misDF')]",
     "storageAccountName": "[concat(parameters('collegeName'),'mis')]",
     "sourceBlobContainer": "misfiles",
     //"sourceBlobName": "SX155.txt",
